@@ -11,9 +11,9 @@ const updateCountdown = ()=>{
     // calculando a diferença do tempo atual para o fim do ano
     const difference = date - currentTime;
     const days = Math.floor(difference / 1000 / 60 / 60 / 24)
-    const hours = Math.floor(difference / 1000 / 60 / 60) % 24 // %24 para compensar as horas que passaram
-    const minutes = Math.floor(difference / 1000 / 60) % 60 // compensar os minutos que passaram
-    const seconds = Math.floor(difference / 1000) % 60 // compensar os segundos
+    const hours = Math.floor(difference / 1000 / 60 / 60) % 24 // %24 para compensar 
+    const minutes = Math.floor(difference / 1000 / 60) % 60 // o tempo que passou
+    const seconds = Math.floor(difference / 1000) % 60 // 
 
     SECONDS_EL.textContent = seconds < 10 ? `0${seconds}` : seconds
     MINUTES_EL.textContent = minutes < 10 ? `0${minutes}` : minutes
