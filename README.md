@@ -1,4 +1,4 @@
-### Live Preview
+### Live Demo
 - https://rm0909.github.io/countdown-app/
 ### Buid With
 - HTML, CSS and Javascript
