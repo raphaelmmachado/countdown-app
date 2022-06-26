@@ -1,7 +1,7 @@
 
 ### GITHUB PAGES:
 - https://rm0909.github.io/countdown-app/
-- 
+
 # COUNTDOWN APP:
 Countdown to the end of contract of Diego Ribas. A player we Flamengo fans love a lot.
 
