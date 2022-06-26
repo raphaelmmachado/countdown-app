@@ -9,7 +9,7 @@ Countdown to the end of contract of Diego Ribas. A player we Flamengo fans love 
 - HTML
 - CSS
 - Javascript
-- 
+
 ### WHAT I LEARNED:
 - To use Date in javascript
 
